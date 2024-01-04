@@ -2,7 +2,7 @@ from langchain.llms import OpenAI
 from langchain.prompts import PromptTemplate
 from langchain.chains import LLMChain
 from langchain.chains import SequentialChain
-from secret_key import openapi_key
+from key import openapi_key
 
 import os
 os.environ['OPENAI_API_KEY'] = openapi_key
