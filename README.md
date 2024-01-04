@@ -33,6 +33,6 @@ streamlit run main.py
 
 ## Project Structure
 
-- main.py: The main Streamlit application script.
-- main_langchain.py: main langchain file to process.
-- key.py: file for storing your OpenAI API key.
+- main.py : The main Streamlit application script.
+- main_langchain.py : main langchain file to process.
+- key.py : file for storing your OpenAI API key.
